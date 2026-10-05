@@ -1,0 +1,7 @@
+# MistX Korean patch update manifest
+version=1.0.0
+reinstall=1.0.0
+file=BepInEx/Translation/ko/Text/_ko_static.enc|a080697a953a284f91580fc042300de885d9fc4a36a0b3bc3171a04e068ca10b|_ko_static.enc
+file=BepInEx/Translation/ko/Text/_ko_regex.enc|0108c934fe7260219ab679c736124aebc9f2ecadbac96feea75e12622a061daa|_ko_regex.enc
+file=BepInEx/Translation/ko/Story/story.enc|d2711214b812a7e0d965f379ad5a00109a2f59f615c22d6fc41677b367cc25fb|story.enc
+file=BepInEx/Translation/ko/mistx_kr_tmp|f1d5086678ca6034832b119b6c2cf203451191f7082964c22459faf04a8b76b8|mistx_kr_tmp
