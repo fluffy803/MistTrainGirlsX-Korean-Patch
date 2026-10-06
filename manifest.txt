@@ -1,6 +1,6 @@
 # MistX Korean patch update manifest
-version=0.3
-reinstall=0.3
+version=0.3.1
+reinstall=0.3.1
 file=BepInEx/Translation/ko/Text/_ko_static.enc|3c78b6129495b4f3de7ecedbbe6255a7ce468d2f1caff523a6238700ab2c2dcb|_ko_static.enc
 file=BepInEx/Translation/ko/Text/_ko_regex.enc|f34850759f78a3b18f395069ab2fd8fe167d549b40d29be12e4d7242bbbc3645|_ko_regex.enc
 file=BepInEx/Translation/ko/Story/story.enc|d46bf794b73f7308b1c4657a852469af22073f3d5d42071f1923420f98840bc1|story.enc
