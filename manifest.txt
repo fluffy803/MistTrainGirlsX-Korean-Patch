@@ -1,9 +1,9 @@
 # MistX Korean patch update manifest
-version=0.4.2
+version=0.4.3
 reinstall=0.4.0
 file=BepInEx/Translation/ko/Text/_ko_static.enc|aa36e06d45afa7e2087407ea7a72040cf4e98f85a5c743e2dacd49786c7260f5|_ko_static.enc
 file=BepInEx/Translation/ko/Text/_ko_regex.enc|f34850759f78a3b18f395069ab2fd8fe167d549b40d29be12e4d7242bbbc3645|_ko_regex.enc
-file=BepInEx/Translation/ko/Story/story.enc|d144fca518a7a5971728f182c04d4b595db2b03fc0e3614846216f5655beee9e|story.enc
+file=BepInEx/Translation/ko/Story/story.enc|7e53e72d0ccac39fcc7d373d7c264d869f2904a0fade4bd17a4ecb84a34606c8|story.enc
 file=BepInEx/Translation/ko/mistx_kr_tmp|f1d5086678ca6034832b119b6c2cf203451191f7082964c22459faf04a8b76b8|mistx_kr_tmp
 file=BepInEx/Translation/ko/Texture/Cutin_Text_SR [188D768380].png.enc|eccbcbc85ee961e1c7cfdebd227b7908ee78016c9d3cf75a9e7247f24fb90135|tex_188D768380.enc
 file=BepInEx/Translation/ko/Texture/Cutin_Text_SSR [E6E5BE535D].png.enc|476bc1f924f8f8c4266c122bd4b910694c6f6aa6c8455a58cf7fbb8f849e9f18|tex_E6E5BE535D.enc
